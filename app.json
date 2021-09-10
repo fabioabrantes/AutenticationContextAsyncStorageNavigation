@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "authContext",
+    "slug": "authContext",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "authContext"
+}
